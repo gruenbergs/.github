@@ -1,3 +1,3 @@
 # The Gruenbergs
 
-### (https://gruenbergs.net)[gruenbergs.net]
+### [gruenbergs.net](https://gruenbergs.net)
